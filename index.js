@@ -11,9 +11,9 @@ var player2Score_Text;
 var avamode = false;
 
 //Constants for sounds that play when you score hit wall or hit the ball, etc..
-var PADDLE = new Audio("https://nerpx.github.io/pong-sound/Paddle.wav");
-var WALL = new Audio("https://nerpx.github.io/pong-sound/Wall.wav");
-var POINT = new Audio("https://nerpx.github.io/pong-sound/Point.wav");
+var PADDLE = new Audio("https://A7e3.github.io/pong-sound/Paddle.wav");
+var WALL = new Audio("https://A7e3.github.io/pong-sound/Wall.wav");
+var POINT = new Audio("https://A7e3.github.io/pong-sound/Point.wav");
 
 function start(){
     //creates a alert that asks the user if they want to use AIvsAI or
